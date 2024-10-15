@@ -39,7 +39,7 @@
 #define STACK_SIZE 10
 #define MAX_INGREDIENTS 3
 
-#define CHEATS true
+#define CHEATS false
 
 namespace Overlay
 {
