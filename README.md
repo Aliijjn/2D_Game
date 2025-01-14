@@ -43,6 +43,5 @@ This is my take on a more complex 2D game, featuring different blocks and items,
 ![image](https://github.com/user-attachments/assets/5bdf0dba-dc02-46fd-86c0-e9ae3fbc36d2)
 ### Then you can use that iron to craft a better axe, letting you cut down trees even faster
 ![image](https://github.com/user-attachments/assets/c58f20a0-09f1-4670-8fa0-4e8e658de645)
-### That's the gameplay loop so far, but more will be coming soon! :)
 
 ### Alijn Kuijer, October 2024
