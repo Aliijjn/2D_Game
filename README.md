@@ -1,12 +1,12 @@
 # 2D Game
 This is my take on a more complex 2D game, featuring different blocks and items, inventory management and even crafting and smelting mechanics. It's all written in C++, using a mix of Windows.h, OpenGL and my own library for window management and rendering sprites.
 
-## What I've learned from this project
+## What I've learned from this project ✅
 - Managing large data structures
 - How to use OpenGL
 - How to load and display a custom font
 
-## Images
+## Images 📷
 ### You spawn in an open world, filled with trees and rocks. With a bit of effort, you can use these to make some advanced tools
 ![image](https://github.com/user-attachments/assets/fea72443-75f3-4082-9c3e-1fa2fef84ceb)
 ### You can start by hitting a tree, but as you can see, that takes quite long...
